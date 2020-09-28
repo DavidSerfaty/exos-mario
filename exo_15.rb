@@ -12,7 +12,7 @@ end
 # AVEC WHILE
 # i = birth_year + 1
 #
-# while i <= current_year do
+# while i <= current_year
 #   if i != current_year
 #     puts "En #{i} tu avais #{i-birth_year} ans"
 #   else

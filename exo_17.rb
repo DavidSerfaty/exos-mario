@@ -19,7 +19,6 @@ end
 
 #Avec while
 
-end
 # while y < birth
 #   if x == y
 #     puts "Il y a #{x} ans tu avais la moitié de ton age"

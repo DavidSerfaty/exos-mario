@@ -11,7 +11,7 @@ end
 
 
 
-# while 0 <= number do
+# while 0 <= number
 #   puts number
 #   number -= 1
 # end
